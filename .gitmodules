@@ -4,3 +4,6 @@
 [submodule "Section_3"]
 	path = Section_3
 	url = git@github.com:TiroLiroLD/AngelaYu_SwiftBootcamp_3.git
+[submodule "Section_4"]
+	path = Section_4
+	url = git@github.com:TiroLiroLD/AngelaYu_SwiftBootcamp_4.git
