@@ -19,3 +19,6 @@
 [submodule "Section_7"]
 	path = Section_7
 	url = git@github.com:TiroLiroLD/AngelaYu_SwiftBootcamp_7.git
+[submodule "Section_26"]
+	path = Section_26
+	url = https://github.com/TiroLiroLD/Twitter_iOS_NLP
